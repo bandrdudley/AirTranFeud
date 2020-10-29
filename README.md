@@ -1,7 +1,7 @@
 # AirTranFeud
 
-I developed AirTranFeud for wife when she had to conduct security classes to employees.
-Her boss played the role of Richard Dawson the host and my wife ran the controls.
-The game became a runaway hit and the employees clamored for more games during 23 hrs of training time.
+I developed AirTranFeud for my wife when she had to conduct security classes to employees.
+The game was a creative way to teach and review multiple lists of requirements
+AirTran Feud became a runaway hit and the employees clamored for more games to be incorporated into their training.
 
 ![Image of Gameboard](https://github.com/bandrdudley/AirTranFeud/blob/master/resources/AirTranFeud.jpg)
